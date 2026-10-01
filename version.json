@@ -1,9 +1,9 @@
 {
-  "version": "1.1.0",
-  "zip_url": "https://github.com/tbinici25-Bjk/MedikalAsistan-Updates/releases/download/v1.1.0/MedikalAsistan-1.1.0.zip",
-  "sha256": "34cc1b9685ddc533780b299573df0ee6f03a7e8175b39786a1fdba106d6b2d6d",
-  "imza": "+K/b6tl1hJQ5/5mI7dkQ6MccgO0ccpmhWiRvaVLUDlDsx8vt/okHHFyPxQvPhxWDBeYOri2Qq46DUhYINR3SAw==",
-  "notes": "Otomatik guncelleme sistemi",
+  "version": "1.1.1",
+  "zip_url": "https://github.com/tbinici25-Bjk/MedikalAsistan-Updates/releases/download/v1.1.1/MedikalAsistan-1.1.1.zip",
+  "sha256": "ab75e042ab15f5add59f1629406e654d3ec2f012652ac935d315c772d6ba2b4d",
+  "imza": "a1N/bHF6st1IRAIwq/4SPfkpQgTRRGRsTyoKpUeRzbyuQmRpCDGNetAF0AO1xyHjp/Rlpw5qRi/iiu+IVmrcDg==",
+  "notes": "Guncelleme baslatma duzeltmesi",
   "zorunlu": false,
   "node_modules": false,
   "date": "2026-10-01"
