@@ -1,9 +1,9 @@
 {
-  "version": "1.2.0",
-  "zip_url": "https://github.com/tbinici25-Bjk/MedikalAsistan-Updates/releases/download/v1.2.0/MedikalAsistan-1.2.0.zip",
-  "sha256": "c6f0a465d6cf6e904824d3720698a49392766e08989e70815f70754c74ca735b",
-  "imza": "5HTOePycnAoi20w/0y/fHfasuDMPwEhFI3K1gaebv4tBVNL+eUQuJD13w0A6Rxm3k1ONeJM6RQV2YB6Iwl7BAg==",
-  "notes": "Takvim, Baileys, lisans, izleme paneli, danışan silme, KVKK, USB kurulum",
+  "version": "1.2.1",
+  "zip_url": "https://github.com/tbinici25-Bjk/MedikalAsistan-Updates/releases/download/v1.2.1/MedikalAsistan-1.2.1.zip",
+  "sha256": "1ac13087c2774b52cba917b50d7842b6d04e63e5a1515b2ce2377c091f5d978c",
+  "imza": "Aw5eITHlVdtZSLudk/9+QuQ+CumNYeckpt1+UQziPpf3nNvqaeBUQuIkzdf2gzmOR5/BILcGDshB1Vj5dbdbDQ==",
+  "notes": "Paket duzeltmesi: eksik kutuphane dosyalari eklendi",
   "zorunlu": false,
   "node_modules": true,
   "date": "2026-10-04"
